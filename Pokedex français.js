@@ -1,4 +1,4 @@
-﻿window._pokemon = {
+﻿var __pokedex__ = {
     'bulbizarre': {
         nom: '#001 Bulbizarre',
         types: ['Plante','Poison'],
