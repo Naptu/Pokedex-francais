@@ -1,6 +1,6 @@
-a= { 
-    'salamèche': {
-        nom: 'Salamèche',
+window.a = { 
+    'salamÃ¨che': {
+        nom: 'SalamÃ¨che',
         types: ['Feu'],
         talents: ['Brasier','\'\'Force Soleil\'\''] 
     },
